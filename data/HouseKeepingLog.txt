@@ -1,0 +1,52 @@
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - FDA CPU Load: 6.06%
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - Total CPU Load: 6.80%
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - FDA Memory Usage: 133KB
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - Total Memory free: 5562MB
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - Temperature: WMI Temperature reading not supported. Details: Not supported 
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - Available free space in drive C:\ is: 39.83GB
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - Available free space in drive D:\ is: 359.22GB
+2024-09-06 12:55:42,697 [5824] INFO  HouseKeepingLog - Ping to interrogator Interrogator-1 (10.136.162.228) successfull
+2024-09-06 12:55:42,712 [5824] INFO  HouseKeepingLog - Network Embedded NIC 2 is DOWN
+2024-09-06 12:55:42,822 [5824] INFO  HouseKeepingLog - Network Embedded NIC 1 is UP at 1000Mbps, with receive load of 0.43% and send load of 0.01%
+2024-09-06 12:55:42,822 [5824] INFO  HouseKeepingLog - FDA TCP receive buffer for Interrogator-1 is at 0.00%
+2024-09-06 12:55:42,822 [5824] INFO  HouseKeepingLog - Computer up time: 15 days 17:35:35
+2024-09-06 12:55:42,822 [5824] INFO  HouseKeepingLog - FDA software up time: 0 days 18:40:15
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - FDA CPU Load: 6.06%
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - Total CPU Load: 6.04%
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - FDA Memory Usage: 96KB
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - Total Memory free: 5595MB
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - Temperature: WMI Temperature reading not supported. Details: Not supported 
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - Available free space in drive C:\ is: 39.83GB
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - Available free space in drive D:\ is: 359.23GB
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - Ping to interrogator Interrogator-1 (10.136.162.228) successfull
+2024-09-06 13:05:42,712 [1584] INFO  HouseKeepingLog - Network Embedded NIC 2 is DOWN
+2024-09-06 13:05:42,837 [1584] INFO  HouseKeepingLog - Network Embedded NIC 1 is UP at 1000Mbps, with receive load of 0.47% and send load of 0.01%
+2024-09-06 13:05:42,837 [1584] INFO  HouseKeepingLog - FDA TCP receive buffer for Interrogator-1 is at 0.00%
+2024-09-06 13:05:42,837 [1584] INFO  HouseKeepingLog - Computer up time: 15 days 17:45:35
+2024-09-06 13:05:42,837 [1584] INFO  HouseKeepingLog - FDA software up time: 0 days 18:50:15
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - FDA CPU Load: 3.03%
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - Total CPU Load: 4.52%
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - FDA Memory Usage: 96KB
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - Total Memory free: 5594MB
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - Temperature: WMI Temperature reading not supported. Details: Not supported 
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - Available free space in drive C:\ is: 39.83GB
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - Available free space in drive D:\ is: 359.23GB
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - Ping to interrogator Interrogator-1 (10.136.162.228) successfull
+2024-09-06 13:15:42,728 [4780] INFO  HouseKeepingLog - Network Embedded NIC 2 is DOWN
+2024-09-06 13:15:42,853 [4780] INFO  HouseKeepingLog - Network Embedded NIC 1 is UP at 1000Mbps, with receive load of 0.47% and send load of 0.01%
+2024-09-06 13:15:42,853 [4780] INFO  HouseKeepingLog - FDA TCP receive buffer for Interrogator-1 is at 0.00%
+2024-09-06 13:15:42,853 [4780] INFO  HouseKeepingLog - Computer up time: 15 days 17:55:35
+2024-09-06 13:15:42,853 [4780] INFO  HouseKeepingLog - FDA software up time: 0 days 19:00:15
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - FDA CPU Load: 7.58%
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - Total CPU Load: 7.55%
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - FDA Memory Usage: 96KB
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - Total Memory free: 5589MB
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - Temperature: WMI Temperature reading not supported. Details: Not supported 
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - Available free space in drive C:\ is: 39.83GB
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - Available free space in drive D:\ is: 359.22GB
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - Ping to interrogator Interrogator-1 (10.136.162.228) successfull
+2024-09-06 13:25:42,744 [488] INFO  HouseKeepingLog - Network Embedded NIC 2 is DOWN
+2024-09-06 13:25:42,869 [488] INFO  HouseKeepingLog - Network Embedded NIC 1 is UP at 1000Mbps, with receive load of 0.47% and send load of 0.01%
+2024-09-06 13:25:42,869 [488] INFO  HouseKeepingLog - FDA TCP receive buffer for Interrogator-1 is at 0.00%
+2024-09-06 13:25:42,869 [488] INFO  HouseKeepingLog - Computer up time: 15 days 18:05:35
+2024-09-06 13:25:42,869 [488] INFO  HouseKeepingLog - FDA software up time: 0 days 19:10:15
